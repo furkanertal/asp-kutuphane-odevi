@@ -39,12 +39,20 @@ Aşağıda projenin çalışma anından görüntüler yer almaktadır:
 ### Ana Sayfa ve Footer Görünümü
 ![Ana Sayfa Görüntüsü](ekran1.png)
 
-### Arama Sonuçları ve Tablo Tasarımı
+### Yeni Kitap Ekleme Sayfası
 ![Arama Sayfası](ekran2.png)
 
 ### Kitap Eklendi Bildirimi
 ![Bildirim Görüntüsü](ekran3.png)
 
+### Arama Sonuçları
+![Sonuç Sayfası](ekran4.png)
+
+### Kitap Detay Kartı (İnceleme Fonksiyonu)
+![İnceleme](ekran5.png)
+
+### Kitap Silme Onayı Bildirimi
+![Kitabı Silmek İstediğinize Emin misiniz Sorusu](ekran6.png)
 ---
 
 ## 📂 Hazır Yüklü Veriler (Test İçin)
@@ -62,4 +70,5 @@ Proje ilk çalıştırıldığında (Session başladığında), test edilebilmes
 
 ---
 **Geliştirici:** Muhammed Furkan Ertal
+
 **Ders:** Sunucu Taraflı Programlama - 2025-2026 Güz Dönemi
