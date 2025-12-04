@@ -1,0 +1,122 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400;600&display=swap');
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e9ecef;
+    margin: 0;
+    padding: 20px;
+    color: #495057;
+}
+
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+h2, h3 {
+    text-align: center;
+    color: #2c3e50;
+    border-bottom: 2px solid #f1f3f5;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+/* Linkler ve Menü */
+.menu {
+    text-align: right;
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+}
+
+a {
+    text-decoration: none;
+    color: #3498db;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #1d6fa5;
+}
+
+/* Form Elemanları */
+input[type="text"], input[type="number"], select {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0 20px 0;
+    display: inline-block;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    box-sizing: border-box; /* Padding taşmasını önler */
+    transition: border 0.3s;
+}
+
+input[type="text"]:focus, select:focus {
+    border-color: #3498db;
+    outline: none;
+}
+
+/* Butonlar */
+button, input[type="submit"], .btn {
+    width: 100%;
+    background-color: #3498db;
+    color: white;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #2980b9;
+}
+
+/* Tablo Tasarımı */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f8f9fa;
+    color: #333;
+    font-weight: 600;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Özel Butonlar */
+.btn-sil {
+    color: #e74c3c;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.btn-detay {
+    color: #27ae60;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.label-title {
+    font-weight: 600;
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
