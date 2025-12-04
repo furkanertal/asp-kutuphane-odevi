@@ -66,9 +66,9 @@ Proje ilk çalıştırıldığında (Session başladığında), test edilebilmes
 | **Dune** | Frank Herbert | 1965 | Bilim |
 | **Fahrenheit 451** | Ray Bradbury | 1953 | Bilim |
 | **Atomik Alışkanlıklar** | James Clear | 2018 | Roman |
-| **Nutuk** | Mustafa Kemal Atatürk | 1927 | Tarih |
 
 ---
 **Geliştirici:** Muhammed Furkan Ertal
 
 **Ders:** Sunucu Taraflı Programlama - 2025-2026 Güz Dönemi
+
