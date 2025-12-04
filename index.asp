@@ -7,8 +7,7 @@ If Session("Kutuphane") = "" Then
                 "1984;George Orwell;1950;Roman" & "|" & _
 		"Dune;Frank Herbert;1965;Bilim" & "|" & _
 		"Fahrenheit 451;Ray Bradbury;1953;Bilim" & "|" & _
-		"Atomik Alışkanlıklar;James Clear;2018;Roman" & "|" & _
-                "Nutuk;Mustafa Kemal Atatürk;1927;Tarih"
+		"Atomik Alışkanlıklar;James Clear;2018;Roman" &
     Session("Kutuphane") = ornekVeri
 End If
 %>
@@ -48,4 +47,5 @@ End If
 </div>
 
 </body>
+
 </html>
